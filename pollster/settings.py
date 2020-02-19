@@ -85,10 +85,10 @@ WSGI_APPLICATION = 'pollster.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'testConnection',
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
+        'NAME': 'sql12323476',
+        'USER': 'sql12323476',
+        'PASSWORD': 'qdkIcjTgTQ',
+        'HOST': 'sql12.freemysqlhosting.net	',
         'PORT': '3306',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
