@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'pollster.wsgi.application'
 #     }
 # }
 
-mysql
+# mysql
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
